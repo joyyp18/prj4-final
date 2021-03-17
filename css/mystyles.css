@@ -15,10 +15,57 @@
 .voeter{
     background-color: #D1958E;
     font-family: 'Inconsolata', monospace;
-    margin-top: 53px;
     padding-top: 20px;
     padding-left: 24px;
+    border-top: medium solid #57845D
+    
 }
 .lijstje{
     list-style-type: none;
+    color: #000000;
+    padding-top: 23px;
+    text-align: left;
+    font-size: large;
 }
+
+.tussenstukje{
+    font-family: 'Inconsolata', monospace;
+    margin-top: 20px;
+    padding-top: 31px;
+    background-color: #83A160;
+}
+.carousel{
+    width: 500px;
+    height: 500px;
+    padding-left: 33px;
+}
+#inderdaad{
+    text-align: center;
+    font-size: 63px;
+    border-top: medium solid #57845D;
+    border-radius: 68px;
+}
+.textHome{
+    background-color: #D1958E;
+    margin-top: 11px;
+    text-align: center;	
+   
+}
+#followtje{
+    text-decoration: underline;	
+}
+
+a{
+	color: #000000;
+}
+a:hover{
+    color: #FFFDFD;
+}
+#footjes{
+    font-size: medium;
+    margin-left: 19px;
+}
+#hey{
+    font-size: 91px;
+}
+
