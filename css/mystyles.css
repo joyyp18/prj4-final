@@ -68,4 +68,7 @@ a:hover{
 #hey{
     font-size: 91px;
 }
-
+.img-fluid{
+	width: 400px;
+	height: 500px;
+}
