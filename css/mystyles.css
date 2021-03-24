@@ -1,4 +1,8 @@
 @charset "utf-8";
+body{
+	 margin: 0; padding: 0; border: 0; font-size: 100%;
+}
+
 .jumbotron-fluid{
    background-image: url("../images/Untitled-1.jpg");
 }
