@@ -53,9 +53,17 @@ body{
 .textHome{
     background-color: #D1958E;
     margin-top: 11px;
-    text-align: center;	
-   
+    text-align: center;   
 }
+
+.textHome p{
+	color: white;
+}	
+
+.textHome:hover{
+	background-color:#A8B08B;
+}
+
 #followtje{
     text-decoration: underline;	
 }
